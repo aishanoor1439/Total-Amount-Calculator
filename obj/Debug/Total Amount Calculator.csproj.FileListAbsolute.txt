@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Total Amount Calculator\Total Amount Calculator\bin\Debug\Total Amount Calculator.exe.config
+C:\Users\DELL\source\repos\Total Amount Calculator\Total Amount Calculator\bin\Debug\Total Amount Calculator.exe
+C:\Users\DELL\source\repos\Total Amount Calculator\Total Amount Calculator\bin\Debug\Total Amount Calculator.pdb
+C:\Users\DELL\source\repos\Total Amount Calculator\Total Amount Calculator\obj\Debug\Total Amount Calculator.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Total Amount Calculator\Total Amount Calculator\obj\Debug\Total Amount Calculator.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Total Amount Calculator\Total Amount Calculator\obj\Debug\Total Amount Calculator.exe
+C:\Users\DELL\source\repos\Total Amount Calculator\Total Amount Calculator\obj\Debug\Total Amount Calculator.pdb
